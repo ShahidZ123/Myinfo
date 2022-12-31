@@ -1,0 +1,6 @@
+create git hub account if not availble
+create empty repo 
+in the local system
+  git config --global user.name "git hub user_name"
+  git config --global user.email "git email address"
+git push -u origin master
